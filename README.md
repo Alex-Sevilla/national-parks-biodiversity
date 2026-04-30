@@ -35,7 +35,7 @@ The analysis explores which species are at risk, which biological categories are
 ![Conservation Status](images/conservation_status.png)
 
 ### At-Risk Species by Biological Category
-![At-Risk by Category](images/atrisk_heatmap.png)
+![At-Risk by Category](images/at_risk_heatmap.png)
 
 ### Observations by Park
 ![Observations by Park](images/observation_by_park.png)
