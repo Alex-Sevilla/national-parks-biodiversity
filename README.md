@@ -29,6 +29,17 @@ The analysis explores which species are at risk, which biological categories are
 | At-risk observations heatmap | Conservation status × park sighting counts |
 | Endangered species by park & category | Where endangered species are being observed |
 
+## Visualizations
+
+### Conservation Status Distribution
+![Conservation Status](images/conservation_status.png)
+
+### At-Risk Species by Biological Category
+![At-Risk by Category](images/atrisk_by_category.png)
+
+### Observations by Park
+![Observations by Park](images/observations_by_park.png)
+
 ## Project Structure
 
 ```
